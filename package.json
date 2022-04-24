@@ -1,0 +1,18 @@
+{
+  "name": "cosc484-assign6-",
+  "version": "1.0.0",
+  "description": "Simple artist web scraper that sends list of artists and songs that they are on to specified email address.",
+  "main": "artists.js",
+  "git repository": "https://github.com/alexTU1",
+  "author": "Alexander Commodore",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}

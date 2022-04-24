@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple artist web scraper that sends list of artists and songs that they are on to specified email address.",
   "main": "artists.js",
-  "git repository": "https://github.com/alexTU1",
+  "git repository": "https://github.com/alexTU1/Artist-Email-Scraper",
   "author": "Alexander Commodore",
   "license": "ISC",
   "dependencies": {

@@ -1,7 +1,8 @@
 # Artist-Email-Scraper
 Sends email to specified reciever of specified artists and the songs that they are on.
 
-<<<BEFORE STARTING: Create sample credentials.json file 
+<<<BEFORE STARTING: Create sample JSON file named credentials.json file>>>
+*Use same key attribute names within your own credentials.json file as follows below*
 	  
 	  Ex: {
 	  	"from": "sampleEmail@sample.com",

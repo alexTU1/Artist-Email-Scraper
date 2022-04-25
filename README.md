@@ -16,6 +16,7 @@ Step1: In command line of program, type in command: node artists.js /*This is wh
         Ex: node artists.js drake future gunna
 	
         (only one word names will work as of now)
+	*currently only works with one artist at a time*
         
 Step2: Hit enter/return button on your machine
 

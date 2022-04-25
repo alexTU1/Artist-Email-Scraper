@@ -20,16 +20,8 @@ request('http://www.popvortex.com/music/charts/top-rap-songs.php', function (err
             const multiplExist = lowerCase.every(value =>{
                 return stringName.includes(value);
             });
-           // console.log(multiplExist);
-
-        //    const output = `
-        //    <h3>Your REQUEST!</h3>
-        //    <p>You chose the Artist(s): ${artistNames}</p>
-
-        //    `;
             
            if(i<chartLength && stringName.toLowerCase().includes(lowerCase) || stringSong.toLowerCase().includes(lowerCase)){  
-                //console.log("Artist(s) Name: " + stringName + "\nSong-Title    : " + stringSong);
 
                 let artistArr = {
                     artist: stringName,
